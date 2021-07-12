@@ -1,7 +1,12 @@
 .intro {
     color: green;
+    background-color: rgb(49, 49, 49);
+    text-decoration-line: underline;
+    text-transform: uppercase;
 }
-
-.photographer {
-    color:aqua
+.photographer{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    
 }
