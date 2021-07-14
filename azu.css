@@ -1,12 +1,48 @@
-.intro {
-    color: green;
-    background-color: rgb(49, 49, 49);
+.Name {
+    color:green;
     text-decoration-line: underline;
     text-transform: uppercase;
+    font-style: italic;
 }
 .photographer{
     color: blueviolet;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
-    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+
+}
+
+h4 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+
+}
+
+h5{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+h6 {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+h2
+{color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+
 }
